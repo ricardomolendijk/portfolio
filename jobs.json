@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Google",
+    "image": "assets/imgs/home-page-2/experience/google.svg",
+    "duration": "2018 - Present",
+    "title": "Senior Software Engineer at Google",
+    "description": [
+      "Led development of scalable web applications, improving performance and user experience for millions of users.",
+      "Implemented machine learning algorithms to enhance search functionality.",
+      "Collaborated with cross-functional teams to integrate new features seamlessly."
+    ],
+    "skills": ["Python", "TensorFlow", "Angular", "Kubernetes", "GCP"]
+  },
+  {
+    "company": "Twitter (X)",
+    "image": "assets/imgs/home-page-2/experience/twitter.svg",
+    "duration": "2012 - 2015",
+    "title": "Software Engineer at Twitter (X)",
+    "description": [
+      "Developed and maintained core features of the platform.",
+      "Enhanced user engagement through innovative solutions.",
+      "Worked closely with design teams to improve UI/UX."
+    ],
+    "skills": ["JavaScript", "React", "Node.js", "UI/UX Design"]
+  },
+  {
+    "company": "Amazon",
+    "image": "assets/imgs/home-page-2/experience/amazon.svg",
+    "duration": "2018 - Present",
+    "title": "Backend Developer at Amazon",
+    "description": [
+      "Optimized backend services for better performance.",
+      "Integrated new payment gateways to enhance user experience.",
+      "Collaborated with teams to ensure seamless deployment."
+    ],
+    "skills": ["Java", "AWS", "Microservices", "Docker"]
+  },
+  {
+    "company": "PayPal",
+    "image": "assets/imgs/home-page-2/experience/payPal.svg",
+    "duration": "2010 - 2012",
+    "title": "Junior Developer at PayPal",
+    "description": [
+      "Assisted in the development of secure payment systems.",
+      "Conducted code reviews and testing for quality assurance.",
+      "Participated in team meetings to discuss project progress."
+    ],
+    "skills": ["C#", ".NET", "SQL", "Agile Methodologies"]
+  }
+]
