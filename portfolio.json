@@ -9,7 +9,10 @@
       "src": "assets/imgs/home-page-2/projects/img-1.png"
     },
     "links": {
-      "liveDemo": "#",
+      "liveDemo": {
+        "url": "https://test.nl",
+        "name": "test"
+      },
       "github": "#"
     }
   },
@@ -23,7 +26,10 @@
       "src": "assets/imgs/home-page-2/projects/img-1.png"
     },
     "links": {
-      "liveDemo": "#",
+      "liveDemo": {
+        "url": "https://test.nl",
+        "name": "test"
+      },
       "github": "#"
     }
   }
