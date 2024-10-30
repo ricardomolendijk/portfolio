@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Integrate AI into the ecommerce system",
+    "description": "Developed an online learning platform with course management, quizzes, and progress tracking.",
+    "client": "Conceptual JSC",
+    "completionTime": "6 months",
+    "technologies": ["Node.js", "React", "MongoDB", "Stripe"],
+    "image": {
+      "src": "assets/imgs/home-page-2/projects/img-1.png"
+    },
+    "links": {
+      "liveDemo": "#",
+      "github": "#"
+    }
+  },
+  {
+    "title": "Integrate AI into the ecommerce system",
+    "description": "Developed an online learning platform with course management, quizzes, and progress tracking.",
+    "client": "Conceptual JSC",
+    "completionTime": "6 months",
+    "technologies": ["Node.js", "React", "MongoDB", "Stripe"],
+    "image": {
+      "src": "assets/imgs/home-page-2/projects/img-1.png"
+    },
+    "links": {
+      "liveDemo": "#",
+      "github": "#"
+    }
+  }
+]
