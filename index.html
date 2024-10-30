@@ -1168,7 +1168,7 @@
               experienceItem.onclick = () => changeExperienceText(job.company);
               experienceItem.innerHTML = `
                 <div class="d-flex align-items-center gap-2">
-                  <img src="${job.image}" alt="${job.company}" />
+                  <img src="${job.image || 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2225%22 height=%2225%22><rect width=%2225%22 height=%2225%22 fill=%22%23ccc%22 /></svg>'}" alt="${job.company}" style="width: 25px; height: 25px;" />
                   <div class="d-flex flex-column ms-2">
                     <h5 class="mb-1">${job.company}</h5>
                     <span class="text-300">${job.duration}</span>

@@ -1,17 +1,17 @@
 [
   {
     "company": "Peet ICT",
-    "image": "assets/imgs/home-page-2/experience/peet_ict.svg",
-    "duration": "Oktober 2022 - Februari 2024",
-    "title": "Accountmanager",
+    "image": "quickassets/jobs/peetictbv_logo.jpeg",
+    "duration": "October 2022 - February 2024",
+    "title": "Account Manager",
     "description": [
-      "Begonnen als Junior Accountmanager en snel doorgegroeid naar Accountmanager.",
-      "Verantwoordelijk voor klantcontact, offertes, planning, technische opleveringen en projectmanagement.",
-      "Klanten geadviseerd en begeleid in hun transitie naar Azure, inclusief het opstellen van documentatie en migratieplannen.",
-      "Projectteams aangestuurd en de uitvoering van cloudmigratie projecten gecoördineerd.",
-      "Marketingtaken uitgevoerd en samenwerking met externe bureaus gecoördineerd.",
-      "Operationele taken uitgevoerd, zoals contractbeheer, inkoop en evaluatiegesprekken.",
-      "Microsoft AZ-900 certificaat behaald."
+      "Started as Junior Account Manager and quickly advanced to Account Manager.",
+      "Responsible for customer contact, quotations, planning, technical deliveries, and project management.",
+      "Advised and guided clients in their transition to Azure, including drafting documentation and migration plans.",
+      "Led project teams and coordinated the execution of cloud migration projects.",
+      "Performed marketing tasks and coordinated collaboration with external agencies.",
+      "Carried out operational tasks such as contract management, procurement, and evaluation meetings.",
+      "Obtained Microsoft AZ-900 certificate."
     ],
     "skills": [
       "Azure",
@@ -23,27 +23,26 @@
   },
   {
     "company": "Freelance",
-    "image": "assets/imgs/home-page-2/experience/freelance.svg",
-    "duration": "Juli 2018 - Heden",
+    "duration": "July 2018 - Present",
     "title": "IT Consultant",
     "description": [
-      "Websites gebouwd voor lokale ondernemers, gehost op een zelfgebouwd cloudplatform.",
-      "IT Consultant voor lokale bedrijven.",
-      "Freelance ingehuurd door lokale IT partijen."
+      "Built websites for local entrepreneurs, hosted on a self-built cloud platform.",
+      "IT Consultant for local companies.",
+      "Hired as a freelancer by local IT parties."
     ],
     "skills": ["Web Development", "Cloud Platforms", "IT Consulting"]
   },
   {
     "company": "YourSurprise",
-    "image": "assets/imgs/home-page-2/experience/yoursurprise.svg",
-    "duration": "Augustus 2019 - Januari 2020",
-    "title": "Stage DevOps Engineer",
+    "image": "quickassets/jobs/yoursurprise.jpeg",
+    "duration": "August 2019 - January 2020",
+    "title": "Intern DevOps Engineer",
     "description": [
-      "Beheer en updates van mission-critical platform in Google Cloud voor Europa en Amerika.",
-      "Gebruik van Terraform, Ansible, Packer, Nginx en Linux.",
-      "Platform opgeschaald tijdens feestdagen, monitoring en uptime management.",
-      "Migratie van VM-applicaties naar Docker-containers.",
-      "Oplossen van bugs, onderzoek naar PHP security-bug, testen van Cloud Load Balancer."
+      "Managed and updated mission-critical platform in Google Cloud for Europe and America.",
+      "Used Terraform, Ansible, Packer, Nginx, and Linux.",
+      "Scaled platform during holidays, monitoring and uptime management.",
+      "Migrated VM applications to Docker containers.",
+      "Resolved bugs, researched PHP security bug, tested Cloud Load Balancer."
     ],
     "skills": ["Google Cloud", "Terraform", "Ansible", "Docker", "Linux"]
   }
