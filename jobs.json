@@ -3,22 +3,22 @@
     "company": "Peet ICT",
     "image": "quickassets/jobs/peetictbv_logo.jpeg",
     "duration": "October 2022 - February 2024",
-    "title": "Account Manager",
+    "title": "Technical Consultant and Account Manager",
     "description": [
-      "Started as Junior Account Manager and quickly advanced to Account Manager.",
-      "Responsible for customer contact, quotations, planning, technical deliveries, and project management.",
-      "Advised and guided clients in their transition to Azure, including drafting documentation and migration plans.",
-      "Led project teams and coordinated the execution of cloud migration projects.",
-      "Performed marketing tasks and coordinated collaboration with external agencies.",
-      "Carried out operational tasks such as contract management, procurement, and evaluation meetings.",
-      "Obtained Microsoft AZ-900 certificate."
+      "Started as Junior Account Manager and quickly advanced to a combined role as Account Manager and Technical Consultant, responsible for both customer contact and technical support.",
+      "Advised and guided clients in their migration to Azure, with responsibilities for drafting migration plans, technical documentation, and hands-on support during implementation.",
+      "Coordinated and led project teams for cloud projects, acting as a liaison between the client and the technical team.",
+      "Performed supporting operational tasks such as contract management and procurement, and worked closely with marketing teams and external agencies to optimally serve client needs.",
+      "Obtained Microsoft AZ-900 certificate to better support clients with in-depth cloud knowledge.",
+      "Utilized Terraform to manage DNS records in Cloudflare more efficiently."
     ],
     "skills": [
       "Azure",
       "Project Management",
       "Customer Relations",
-      "Marketing",
-      "Microsoft AZ-900"
+      "Technical Support",
+      "Microsoft AZ-900",
+      "Terraform"
     ]
   },
   {
@@ -26,11 +26,19 @@
     "duration": "July 2018 - Present",
     "title": "IT Consultant",
     "description": [
-      "Built websites for local entrepreneurs, hosted on a self-built cloud platform.",
-      "IT Consultant for local companies.",
-      "Hired as a freelancer by local IT parties."
+      "Built websites for various local entrepreneurs, hosted on a self-built cloud platform based on Terraform, Ansible, Ubuntu, and DigitalOcean.",
+      "Provided IT consultancy for local companies and was hired by Managed Service Providers (MSPs).",
+      "Developed a website and provided network support with Ubiquiti Unifi installations and management for various clients for Phonex Communicatie."
     ],
-    "skills": ["Web Development", "Cloud Platforms", "IT Consulting"]
+    "skills": [
+      "Web Development",
+      "Cloud Platforms",
+      "IT Consulting",
+      "Terraform",
+      "Ansible",
+      "Ubuntu",
+      "DigitalOcean"
+    ]
   },
   {
     "company": "YourSurprise",
@@ -38,12 +46,29 @@
     "duration": "August 2019 - January 2020",
     "title": "Intern DevOps Engineer",
     "description": [
-      "Managed and updated mission-critical platform in Google Cloud for Europe and America.",
-      "Used Terraform, Ansible, Packer, Nginx, and Linux.",
-      "Scaled platform during holidays, monitoring and uptime management.",
-      "Migrated VM applications to Docker containers.",
-      "Resolved bugs, researched PHP security bug, tested Cloud Load Balancer."
+      "Responsible for the daily management and updates of a mission-critical platform in Google Cloud, focused on the European and American markets.",
+      "Scaled infrastructure during holidays to handle increased traffic, with strategic deployment of cloud resources.",
+      "Worked in an environment with automated provisioning and configuration management, set up with Terraform and Ansible, enhancing platform reliability and uptime.",
+      "Executed migration of VM-based applications to Docker containers, promoting modernization and more efficient platform management.",
+      "Responsible for uptime management and participated in the on-call duty to ensure 24/7 availability and proactively resolve incidents.",
+      "Conducted research on a critical PHP security bug, tested and implemented solutions.",
+      "Tested and implemented Cloud Load Balancer for better traffic distribution and increased scalability.",
+      "Applied a significant patch in Nginx, logging user IP addresses instead of the load balancer's, providing a more accurate view of traffic flows and improving troubleshooting capabilities.",
+      "Built software images with Packer, based on an Ansible playbook, an Ubuntu image, and the necessary web stack (PHP, Nginx, Redis Cache, JavaScript).",
+      "Managed Google Cloud databases and object storage buckets.",
+      "Responsible for the protection and control of backups in line with the backup policy set by the CTO."
     ],
-    "skills": ["Google Cloud", "Terraform", "Ansible", "Docker", "Linux"]
+    "skills": [
+      "Google Cloud",
+      "Terraform",
+      "Ansible",
+      "Docker",
+      "Linux",
+      "Packer",
+      "Nginx",
+      "PHP",
+      "Redis Cache",
+      "JavaScript"
+    ]
   }
 ]
